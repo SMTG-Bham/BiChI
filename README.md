@@ -1,4 +1,4 @@
-# MAPSI
+# BiChI
 
 Repository for paper: Relativistic Electronic Structure and Band Alignment of BiSI and BiSeI: Candidate Photovoltaic Materials
 
@@ -24,5 +24,5 @@ This file is not affiliated with VASP. Feel free to use and modify, but do so at
 
 References
 -------
-1. W. Haase-Wessel, Die Kristallstruktur des Wismutsulfidjodids (BiSI), *Naturwissenschaften*, **60** 474-474 (1973) doi: [10.1007/BF00592859](http://link.springer.com/article/10.1007%2FBF00592859) 
+1. W. Haase-Wessel, Die Kristallstruktur des Wismutsulfidjodids (BiSI), *Naturwissenschaften*, **60**, 474-474 (1973) doi: [10.1007/BF00592859](http://link.springer.com/article/10.1007%2FBF00592859) 
 2. T. P. Braun and F. J. DiSalvo, Bismuth selenide iodide, *Acta Cryst.*, **56**, 1-2 (2000) doi: [10.1107/S0108270199016017](http://scripts.iucr.org/cgi-bin/paper?S0108270199016017)
